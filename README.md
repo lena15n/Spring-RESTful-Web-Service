@@ -1,6 +1,6 @@
 # Spring-RESTful-Web-Service
 ### gs-rest-service-master
-Simple example from https://spring.io/guides/gs/rest-service/ <br>
+Simple Spring Boot example from https://spring.io/guides/gs/rest-service/ <br>
 Launch URL: http://localhost:8080/greeting?name=sokiable
 
 ### project-1
